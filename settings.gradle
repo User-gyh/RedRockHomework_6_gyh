@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RedRockActivity_6_gyh"
